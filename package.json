@@ -1,0 +1,30 @@
+{
+  "name": "rjc-react-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjcostanzo/rjc-react-portfolio.git"
+  },
+  "author": "rjcostanzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjcostanzo/rjc-react-portfolio/issues"
+  },
+  "homepage": "https://github.com/rjcostanzo/rjc-react-portfolio#readme",
+  "dependencies": {
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-scripts": "2.1.1"
+  }
+}
