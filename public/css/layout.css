@@ -686,7 +686,7 @@ call-to-action .button {
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   font-family: 'opensans-bold', serif;
    padding: 0;
    font-size: 24px;
    line-height: 48px;
@@ -847,7 +847,7 @@ call-to-action .button {
 #contact input,
 #contact textarea,
 #contact select {
-   padding: 18px 20px;
+   padding: 18px 0px;
 	color: #eee;
 	background: #373233;
 	margin-bottom: 42px;

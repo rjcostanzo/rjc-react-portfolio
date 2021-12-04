@@ -22,7 +22,7 @@ let resumeData = {
       {
         "UniversityName":"Coding Bootcamp at UT Austin (Trilogy Education)",
         "specialization":"MERN Full-Stack",
-        "MonthOfPassing":"Dec",
+        "MonthOfPassing":"Jun 2021 - Dec",
         "YearOfPassing":"2021",
         "Achievements":"Gained understanding of the MERN Full-Stack development framework and associated languages/technologies."
       },
@@ -45,34 +45,48 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"BestInvest",
+        "description":"https://rjcostanzo.github.io/BestInvest/",
+        "imgurl":"images/portfolio/portfolio-1.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"E-Commerce API",
+        "description":"https://github.com/rjcostanzo/ecommerce-backend",
+        "imgurl":"images/portfolio/portfolio-2.png"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Password Generator",
+        "description":"https://github.com/rjcostanzo/pwdGen",  
+        "imgurl":"images/portfolio/portfolio-3.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Express Note Taker",
+        "description":"https://github.com/rjcostanzo/noteTaker",
+        "imgurl":"images/portfolio/portfolio-4.png"
+      },
+      {
+        "name":"SQL Employee Tracker",
+        "description":"https://github.com/rjcostanzo/sql-employee-tracker",
+        "imgurl":"images/portfolio/portfolio-5.png"
+      },
+      {
+        "name":"Team Profile Generator",
+        "description":"https://github.com/rjcostanzo/profileGenerator",
+        "imgurl":"images/portfolio/portfolio-6.png"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"sample testimonial",
+        "name":"colleague or client"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"sample testimonial",
+        "name":"colleague or client"
+      },
+      {
+        "description":"sample testimonial",
+        "name":"colleague or client"
       }
     ]
   }
